@@ -20,6 +20,7 @@ If you want to know more about the tool, feel free to contact me or comment belo
 
 ## Download 
 Download all the DLLs from this repo. 
+You also need all the VC++ dependencies, the easiest way to do that is to install Visual Studio (Community version works) and select all the C++ components. 
 
 ## Usage
 Using the tool is very easy. It works in this way:
