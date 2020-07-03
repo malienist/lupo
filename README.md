@@ -1,6 +1,5 @@
 # Lupo — Malware IOC Extractor
 Debugging module for Malware Analysis Automation
-![GitHub Logo](/images/lupo.gif)
 
 For a step by step post on how to use Lupo, with images and instructions, please see this post: https://medium.com/@vishal_thakur/lupo-malware-ioc-extractor-cc86ae76b85d
 
@@ -12,6 +11,8 @@ I wrote Lupo mainly to automate and accelerate the process as much as possible. 
 The way the tool works is pretty straight forward. You load Lupo into the debugger and then execute it. It runs through the malware and collects predefined IOC and writes them to a text file on the disk. You can then use this information to contain and neutralise malware campaigns or simply respond to the security incident that you are working on.
 
 ## Lupo — the tool
+![GitHub Logo](/images/lupo.gif)
+
 I’ll give some more details on the tool itself but not too much to the inner workings of it, at least not here. We need to keep in mind that the malware authors are smart enough to quickly tweak the code to create problems for us!
 
 The tool is written in C++ and uses the Windows Debugging framework to execute the code. It can be used with WinDbg as a ‘plugin’ in order to help automate the analysis process.
