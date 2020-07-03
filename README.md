@@ -1,6 +1,6 @@
 # Lupo — Malware IOC Extractor
 Debugging module for Malware Analysis Automation
-![GitHub Logo](/images/1_IywwocerMkLQiw5xohFglg.png)
+![GitHub Logo](/images/lupo.gif)
 
 For a step by step post on how to use Lupo, with images and instructions, please see this post: https://medium.com/@vishal_thakur/lupo-malware-ioc-extractor-cc86ae76b85d
 
