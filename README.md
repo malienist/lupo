@@ -1,3 +1,6 @@
+### Update: v2.0 now has features that can extract C2 domains/IPs OR complete URLs.
+
+
 # Lupo — Malware IOC Extractor
 Debugging module for Malware Analysis Automation
 
