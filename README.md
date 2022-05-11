@@ -1,7 +1,4 @@
-
-### Update: In v3.0 the sub-extension c2ixvtstr.dll has been replaced by the updated version in netxtract.dll.
-### Update: v2.0 now has features that can extract C2 domains/IPs OR complete URLs.
-
+## For instructions on how to use Lupo, visit https://github.com/malienist/lupo/wiki/Lupo-Wiki 
 
 # Lupo — Malware IOC Extractor
 Debugging module for Malware Analysis Automation
